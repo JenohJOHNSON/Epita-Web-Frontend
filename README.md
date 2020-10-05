@@ -3,7 +3,7 @@ Visula Studio Code
 Web browser
 
 Steps to setup the project:
-Initailly Run the Backennd past of the project where you can find in Github : 
+Initailly Run the Backennd past of the project where you can find in Github : https://github.com/JenohJOHNSON/Epita-Web-Frontend.git
 Install the "Visual Studio Code", then open the Epita Frontend project file in it, which allow you to run the back end.
 
 How to Run
