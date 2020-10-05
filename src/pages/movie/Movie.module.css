@@ -1,0 +1,11 @@
+.Image {
+  width: 100%;
+  min-height: 400px;
+}
+
+.Title {
+  text-align: center;
+  margin: 10px 0;
+  height: 25px;
+  overflow: hidden;
+}

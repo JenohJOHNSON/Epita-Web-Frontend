@@ -1,0 +1,11 @@
+.Brand {
+  font-family: "Sansita Swashed", cursive;
+}
+
+.Link {
+  display: inline-block;
+  text-decoration: none !important;
+  color: #ffffff;
+  margin-right: 20px;
+  cursor: pointer;
+}
