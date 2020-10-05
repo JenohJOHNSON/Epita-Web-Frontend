@@ -3,7 +3,8 @@ Requirements:
 •	Web browser
 
 Steps to setup the project:
-•	Initially Run the Backend past of the project where you can find in GitHub : https://github.com/JenohJOHNSON/Epita-Web-Frontend.git
+•	Initially Run the Backend past of the project where you can find in GitHub : https://github.com/JenohJOHNSON/Epita-Web-Backtend.git
+• Download the Epita Web Frontend project file from Github : https://github.com/JenohJOHNSON/Epita-Web-Frontend.git
 •	Install the "Visual Studio Code", then open the Epita Frontend project file in it, which allow you to run the back end.
 
 How to Run:
